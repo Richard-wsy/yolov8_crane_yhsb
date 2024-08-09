@@ -1,0 +1,14 @@
+names:
+- chanche
+- jiaobanche
+- jiaqiaoji
+- longmendiao
+- lvdaidiao
+- person
+- qichediao
+- tadiao
+- wajueji
+- zhuangzaiji
+nc: 10
+train: G:/Python_work/yolov8_crane_yhsb/dataset/images/train
+val: G:/Python_work/yolov8_crane_yhsb/dataset/images/val
