@@ -19,7 +19,7 @@ yolov-data-train 项目旨在使用YOLOv8进行模型训练，以实现高效的
      ```
    * 克隆该项目：
      ```bash
-     git clone http://192.168.10.201:81/fbzh/yolov-data-train.git
+     git clone https://github.com/Richard-wsy/yolov8_crane_yhsb.git
      ```
    * 查看自己设备cuda版本：
      ```bash
